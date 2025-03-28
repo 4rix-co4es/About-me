@@ -1,6 +1,6 @@
 # 💻 Amrutya | Software Engineer | Cloud | DevOps 
 
-![GitHub Banner](./your-header-image-name.png)  <!-- You can upload a banner image to personalize -->t
+![GitHub Banner](./github-header-image.png)  <!-- You can upload a banner image to personalize -->
 
 ### 👋 Welcome to My GitHub Profile!  
 I'm **Amrutya**, a passionate **Software Engineer** specializing in **Cloud Computing, DevOps, and Software Automation**.  
